@@ -1,12 +1,12 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDI-GIZMO
+# WDIplus-ATX
 
 ---
 
 Title: Afternoon Lab<br>
 Duration: 1 hr 15 mins approx<br>
-Creator: Thom Page <br>
+Creator: Alex White <br>
 Topics: Terminal, Errors, While loops, For Loops<br>
 
 ---
