@@ -36,21 +36,17 @@ Work through the following prompts in turn:
 
 * Open Terminal
 
-* Navigate to your Documents directory `/User/username/Documents`
+* Navigate to your Class folder 
 
-* Make a **directory** inside Documents called `w1d1_lab`
+* Make a **directory** inside your class folder and day called `w1d1_lab`
 
 * Go into the `w1d1_lab` directory
 
 * Inside `w1d1_lab`, make a file called `first_lab.js`
 
-* Open the `w1d1_lab` directory in your text editor
+* Create the simples file structure that we did yesterday with a `js` folder `css` folder and a `index.html
 
-Write the answers to the rest of this lab in the `first_lab.js` file.
-
-Make sure you are in the same directory as the file, otherwise it won't run.
-
-Press the **up arrow** to retrieve the `node first_lab.js` command. That way, you don't have to type it each time to run the file.
+* Create your `app.js` file in the `js` folder
 
 <br>
 <hr>
