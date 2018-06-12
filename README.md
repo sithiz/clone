@@ -16,7 +16,6 @@ Topics: Terminal, Errors, While loops, For Loops<br>
 
 Today we had a look at
 
-* Terminal
 * Errors
 * Variables with `let` and `const`
 * DRY
@@ -47,6 +46,8 @@ Work through the following prompts in turn:
 * Create the simples file structure that we did yesterday with a `js` folder `css` folder and a `index.html
 
 * Create your `app.js` file in the `js` folder
+
+* Run your javascript file by opening your `index.html` file in the browser and then go look at the console.
 
 <br>
 <hr>
