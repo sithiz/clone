@@ -1,5 +1,5 @@
 
-# WDIplus-ATX
+# WDI
 
 ---
 
@@ -41,9 +41,7 @@ Work through the following prompts in turn:
 
 * Go into the `w1d1_lab` directory
 
-* Inside `w1d1_lab`, make a file called `first_lab.js`
-
-* Create the simples file structure that we did yesterday with a `js` folder `css` folder and a `index.html
+* Inside `w1d1_lab`create the simple file structure that we did yesterday with a `js` folder `css` folder and a `index.html
 
 * Create your `app.js` file in the `js` folder
 
