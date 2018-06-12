@@ -198,7 +198,7 @@ Where does the loop begin? Where should it end? Does it simply count from one nu
 
 Congrats! There is no need to submit this lab. You will be receiving homework for tonight soon.
 
-If you want more to do, tomorrow we will be getting into git and Github. Use your **research skills** (Google-fu) to find out more about:
+If you want more to do, later today we will be getting into git and Github. Use your **research skills** (Google-fu) to find out more about:
 
 * The difference between git and github
 * What is a Github repo
