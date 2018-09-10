@@ -36,17 +36,19 @@ Work through the following prompts in turn:
 
 * Open Terminal
 
-* Navigate to your Class folder 
+* Navigate to your class directory, then to the directory for today.
 
-* Make a **directory** inside your class folder and day called `w1d1_lab`
+* Make a **directory** inside your today's directory and day called `loop-lab`
 
-* Go into the `w1d1_lab` directory
+* Go into the `loop-lab` directory
 
-* Inside `w1d1_lab`create the simple file structure that we did yesterday with a `js` folder `css` folder and a `index.html
+* Inside `loop-lab`, create the simple file structure that we did yesterday with a `js` directory `css` directory and a `index.html` file
 
-* Create your `app.js` file in the `js` folder
+* Create your `app.js` file in the `js` directory. 
 
-* Run your javascript file by opening your `index.html` file in the browser and then go look at the console.
+* Edit your `index.html` file so that the javascript file will be included in it as we did in class.
+
+* Run your JavaScript file by opening your `index.html` file in Chrome and looking at the console in developer tools.
 
 <br>
 <hr>
@@ -57,7 +59,7 @@ Cut and paste the following code into your text editor (the "Cheers" song lyrics
 
 Run the code and read the error message in the terminal. Using information from the error message (line numbers, etc.), debug the code and make it work.
 
-At the same time, write a comment below the code that specifies what _type_ of error it was. Example, if you get this:
+At the same time, write a comment above the code that specifies what _type_ of error it was. Example, if you get this:
 
 ![](https://i.imgur.com/KRHtmPM.png)
 
@@ -104,7 +106,7 @@ By just looking at the following expressions, determine in your mind whether or 
 <br>
 <hr>
 
-# Assignment operator vs Equality operator vs Strict Equality operator
+# Assignment Operator vs Equality Operator vs Strict Equality Operator
 
 What is the difference between:
 
@@ -123,7 +125,7 @@ and the **strict equality comparison operator** `===`
 
 ## 1
 
-Write a *while* loop that will log the following phrase in the console 1000 times.
+Write a *while* loop that will print the following phrase in the console 1000 times.
 
 ```
 'Ginger chocolate honey patties'
@@ -131,7 +133,7 @@ Write a *while* loop that will log the following phrase in the console 1000 time
 
 You can test it out with a smaller number first, such as 10, and when that works, use 1000.
 
-Make sure you do not run an infinite loop! If you do, you may have to force-quit your browser (`⌘ + option + escape`). Oops!
+Make sure you do not run an infinite loop! If you do, you may have to force-quit your browser (`⌘ + option + escape`). You may even notice your processor getting very hot! Oops!!
 
 
 ## 2
@@ -198,12 +200,14 @@ Congrats! There is no need to submit this lab.
 
 If you want more to do, later today we will be getting into git and Github. Use your **research skills** (Google-fu) to find out more about:
 
-* The difference between git and github
-* What is a Github repo
-* forking a repo on Github
-* cloning a repo from Github
-* What does `git push origin master` do? What does it mean?
-* What would `git pull upstream master` do?
+* What is git?
+* What is the difference between git and github?
+* What is a git repository ("repo")
+* How and when to fork a repo on Github
+* How and when to clone a repo from Github
+* What is a "remote" in git/github?
+* What does `git push origin master` do? Why? What does it mean?
+* What would `git pull upstream master` do? When might you use it?
 
 <br>
 <hr>
