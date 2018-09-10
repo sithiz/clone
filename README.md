@@ -6,7 +6,8 @@
 
 Title: Afternoon Lab<br>
 Duration: 1 hr 15 mins approx<br>
-Creator: Alex White <br>
+Creators: Thom Page, Alex White <br>
+Adapted and Updated by: Jim Haff, Daniel Scott, and Reuben Ayres<br>
 Topics: Terminal, Errors, While loops, For Loops<br>
 
 ---
