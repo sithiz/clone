@@ -4,11 +4,12 @@
 
 ---
 
-Title: Afternoon Lab<br>
-Duration: 1 hr 15 mins approx<br>
-Creators: Thom Page, Alex White <br>
-Adapted and Updated by: Jim Haff, Daniel Scott, and Reuben Ayres<br>
-Topics: Terminal, Errors, While loops, For Loops<br>
+|:---:|:---:|
+|Title| Afternoon Lab|
+|Duration |1 hr 15 mins approx |
+|Creators | Thom Page, Alex White |
+|Adapted and Updated by | Jim Haff, Daniel Scott, and Reuben Ayres |
+| Topics | Terminal, Errors, While loops, For Loops |
 
 ---
 
