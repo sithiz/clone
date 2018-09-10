@@ -1,3 +1,4 @@
+![GA logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67)
 
 # WDI
 
@@ -103,13 +104,15 @@ By just looking at the following expressions, determine in your mind whether or 
 <br>
 <hr>
 
-# Assignment operator vs Equality operator
+# Assignment operator vs Equality operator vs Strict Equality operator
 
 What is the difference between:
 
 the **assignment operator** `=`
 
-and the **equality operator** `==`
+and the **equality comparison operator** `==`
+
+and the **strict equality comparison operator** `===`
 
 ?
 
@@ -120,15 +123,15 @@ and the **equality operator** `==`
 
 ## 1
 
-Write a *while* loop that will log in the console
+Write a *while* loop that will log the following phrase in the console 1000 times.
 
 ```
 'Ginger chocolate honey patties'
 ```
 
-1000 times. You can test it out with a smaller number first, such as 10, and when that works, use 1000.
+You can test it out with a smaller number first, such as 10, and when that works, use 1000.
 
-Make sure you do not run an infinite loop! If you do, close your Terminal. Oops!
+Make sure you do not run an infinite loop! If you do, you may have to force-quit your browser (`⌘ + option + escape`). Oops!
 
 
 ## 2
@@ -175,12 +178,12 @@ Write another *while* loop that prints a message to the console _and_ interpolat
 # 3
 * Declare a variable `let start = 0`
 * Declare a variable `const limit = 100`
-* Write a for loop that counts from the value of `start` to the value of `limit`, using those variables in the **control panel** of the loop.
+* Write a for loop that counts from the value of `start` to the value of `limit`, using those variables in the **control panel** odf the loop.
 
 Test the loop thoroughly.
 
 # 4
-* Think of something in real life, or nature, or wherever / whenever that displays **looping** behavior.
+* Think of something in real life, or nature, or wherever / whenever that displays **looping** behavior (a repeated action).
 
 Use a **for loop** to model the looping behavior of that thing.
 
@@ -199,7 +202,7 @@ If you want more to do, later today we will be getting into git and Github. Use 
 * What is a Github repo
 * forking a repo on Github
 * cloning a repo from Github
-* What does `git push origin master` do?
+* What does `git push origin master` do? What does it mean?
 * What would `git pull upstream master` do?
 
 <br>
