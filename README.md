@@ -39,11 +39,9 @@ Work through the following prompts in turn:
 
 * Navigate to your class directory, then to the directory for today.
 
-* Make a **directory** inside your today's directory and day called `loop-lab`
+* Make a **directory** inside your today's directory called `loop-lab`
 
-* Go into the `loop-lab` directory
-
-* Inside `loop-lab`, create the simple file structure that we did yesterday with a `js` directory `css` directory and a `index.html` file
+* Inside `loop-lab`, create the simple file structure  a `js` directory `css` directory and a `index.html` file
 
 * Create your `app.js` file in the `js` directory. 
 
