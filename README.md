@@ -101,20 +101,6 @@ By just looking at the following expressions, determine in your mind whether or 
 7. `81 / 9 == 9`
 8. `9 != 8 + 1`
 
-<br>
-<hr>
-
-# Assignment Operator vs Equality Operator vs Strict Equality Operator
-
-What is the difference between:
-
-the **assignment operator** `=`
-
-and the **equality comparison operator** `==`
-
-and the **strict equality comparison operator** `===`
-
-?
 
 <br>
 <hr>
