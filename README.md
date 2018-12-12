@@ -153,30 +153,7 @@ Write another *while* loop that prints a message to the console _and_ interpolat
 <br>
 <hr>
 
-# For loops
 
-# 1
-* Write a **for loop** that counts from 0 to 100 and console.logs each number.
-
-# 2
-* Write another **for loop** that counts from 7 to 635 (no more, no less!), and console.logs each number.
-
-# 3
-* Declare a variable `let start = 0`
-* Declare a variable `const limit = 100`
-* Write a for loop that counts from the value of `start` to the value of `limit`, using those variables in the **control panel** odf the loop.
-
-Test the loop thoroughly.
-
-# 4
-* Think of something in real life, or nature, or wherever / whenever that displays **looping** behavior (a repeated action).
-
-Use a **for loop** to model the looping behavior of that thing.
-
-Where does the loop begin? Where should it end? Does it simply count from one number to another? Or does it change or mutate data?
-
-<br>
-<hr>
 
 # Conclusion
 
